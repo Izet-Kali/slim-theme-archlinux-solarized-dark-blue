@@ -1,4 +1,4 @@
-slim-theme-archlinux-solarized-dark-blue
+# slim-theme-archlinux-solarized-dark-blue
 
 How to install:
 
