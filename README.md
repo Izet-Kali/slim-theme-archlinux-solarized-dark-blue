@@ -1,5 +1,7 @@
 # slim-theme-archlinux-solarized-dark-blue
 
+ ![1](images/1.png)
+
 How to install:
 
 ~~~
